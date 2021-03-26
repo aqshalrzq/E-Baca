@@ -16,10 +16,3 @@ Fitur dari Aplikasi E-Baca berbasis Android adalah :
 * Menampilkan siapa saja yang bertugas membangun aplikasi E-Baca ini
 * Menambahkan mode onBackPressed
 
-# Screenshot
-![WhatsApp Image 2021-03-26 at 15 53 57](https://user-images.githubusercontent.com/72083415/112607497-dd371c80-8e4b-11eb-8be4-8a9c3dc8e989.jpeg width = "200" height = "200")
-![WhatsApp Image 2021-03-26 at 15 53 57 (1)](https://user-images.githubusercontent.com/72083415/112607631-00fa6280-8e4c-11eb-8603-4f05f8c9a50c.jpeg)
-![WhatsApp Image 2021-03-26 at 15 53 57 (2)](https://user-images.githubusercontent.com/72083415/112607694-0ce62480-8e4c-11eb-999f-b50c4cba5c69.jpeg)
-![WhatsApp Image 2021-03-26 at 15 53 57 (4)](https://user-images.githubusercontent.com/72083415/112607741-14a5c900-8e4c-11eb-93bd-eb8e1a3d848a.jpeg)
-![WhatsApp Image 2021-03-26 at 15 53 57 (5)](https://user-images.githubusercontent.com/72083415/112607768-1b344080-8e4c-11eb-84f2-e3249eef4288.jpeg)
-
