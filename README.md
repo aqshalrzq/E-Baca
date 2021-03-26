@@ -13,13 +13,6 @@ The features of the E-Baca Application are:
 * Displays who is in charge of building this E-Read application
 * Added onBackPressed mode
 
-# Screenshoot
-<img align="left" src="https://github.com/aqshalrzq/E-Baca/blob/master/screenshoot/01.jpeg" width="270" height="480" hspace="5"/>
-<img align="left" src="https://github.com/aqshalrzq/E-Baca/blob/master/screenshoot/02.jpeg" width="270" height="480" hspace="5"/>
-<img align="left" src="https://github.com/aqshalrzq/E-Baca/blob/master/screenshoot/03.jpeg" width="270" height="480" hspace="5"/>
-<img align="left" src="https://github.com/aqshalrzq/E-Baca/blob/master/screenshoot/04.jpeg" width="270" height="480" hspace="5"/>
-<img align="left" src="https://github.com/aqshalrzq/E-Baca/blob/master/screenshoot/05.jpeg" width="270" height="480" hspace="5"/>
-
 # Attention
 If you want to develop this application, here I have prepared a file containing PHP and MySQL database files. After that, all you have to do is:
 * Change the connection.php file according to the localhost you have
@@ -28,3 +21,10 @@ If you want to develop this application, here I have prepared a file containing 
 
 Thank you, don't forget to give a star for the Android project that I share with you.
 See you next time!
+
+# Screenshoot
+<img align="left" src="https://github.com/aqshalrzq/E-Baca/blob/master/screenshoot/01.jpeg" width="270" height="480" hspace="5"/>
+<img align="left" src="https://github.com/aqshalrzq/E-Baca/blob/master/screenshoot/02.jpeg" width="270" height="480" hspace="5"/>
+<img align="left" src="https://github.com/aqshalrzq/E-Baca/blob/master/screenshoot/03.jpeg" width="270" height="480" hspace="5"/>
+<img align="left" src="https://github.com/aqshalrzq/E-Baca/blob/master/screenshoot/04.jpeg" width="270" height="480" hspace="5"/>
+<img align="left" src="https://github.com/aqshalrzq/E-Baca/blob/master/screenshoot/05.jpeg" width="270" height="480" hspace="5"/>
