@@ -26,7 +26,7 @@ Thank you, don't forget to give a star for the Android project that I share with
 See you next time!
 
 # Screenshoot
-<img align="left" src="https://github.com/aqshalrzq/E-Baca/blob/master/screenshoot/01.jpeg" width="270" height="320" hspace="5"/>
+<img align="left" src="https://github.com/aqshalrzq/E-Baca/blob/master/screenshoot/01.jpeg" width="270" height="480" hspace="5"/>
 <img align="left" src="https://github.com/aqshalrzq/E-Baca/blob/master/screenshoot/02.jpeg" width="270" height="480" hspace="5"/>
 <img align="left" src="https://github.com/aqshalrzq/E-Baca/blob/master/screenshoot/03.jpeg" width="270" height="480" hspace="5"/>
 <img align="left" src="https://github.com/aqshalrzq/E-Baca/blob/master/screenshoot/04.jpeg" width="270" height="480" hspace="5"/>
