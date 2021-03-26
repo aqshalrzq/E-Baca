@@ -1,4 +1,4 @@
-#_E-BACA_
+# E-BACA
 
 E-Baca adalah aplikasi yang menampilkan artikel berbasis android. Ada 6 kategori artikel yang sudah disiapkan untuk memanjakan anda sebagai pengguna aplikasi ini. Sebenarnya, aplikasi ini adalah tugas yang sudah selesai. Jadi, saya selaku yang mengembangkan aplikasi ini membagikan kepada anda dengan harapan anda bisa mempelajari untuk memudahkan anda sebagai seorang android developer kedepannya. Selamat menikmati! Terima Kasih!
 
