@@ -19,3 +19,12 @@ The features of the E-Baca Application are:
 <img align="left" src="https://github.com/aqshalrzq/E-Baca/blob/master/screenshoot/03.jpeg" width="270" height="480" hspace="5"/>
 <img align="left" src="https://github.com/aqshalrzq/E-Baca/blob/master/screenshoot/04.jpeg" width="270" height="480" hspace="5"/>
 <img align="left" src="https://github.com/aqshalrzq/E-Baca/blob/master/screenshoot/05.jpeg" width="270" height="480" hspace="5"/>
+
+#Attention
+If you want to develop this application, here I have prepared a file containing PHP and MySQL database files. After that, all you have to do is:
+* Change the connection.php file according to the localhost you have
+* Change the link url in the Connection package -> InitRetrofit.class according to the link on localhost or web hosting that you have
+* Then, if you are using Android OS 8.0 and above, please enter the res-> xml-> networkSecurityConfig.xml folder then change the url according to the one on localhost / web hosting that you have
+
+Thank you, don't forget to give a star for the Android project that I share with you.
+See you next time!
