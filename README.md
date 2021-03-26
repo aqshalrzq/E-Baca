@@ -16,3 +16,5 @@ Fitur dari Aplikasi E-Baca berbasis Android adalah :
 * Menampilkan siapa saja yang bertugas membangun aplikasi E-Baca ini
 * Menambahkan mode onBackPressed
 
+# Screenshoot
+<img src="https://github.com/aqshalrzq/E-Baca/blob/master/screenshoot/01.jpeg" width="200" height="200" />
