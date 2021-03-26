@@ -17,8 +17,8 @@ Fitur dari Aplikasi E-Baca berbasis Android adalah :
 * Menambahkan mode onBackPressed
 
 # Screenshoot
-<img align="left" src="https://github.com/aqshalrzq/E-Baca/blob/master/screenshoot/01.jpeg" width="320" height="480" hspace="20"/>
-<img align="left" src="https://github.com/aqshalrzq/E-Baca/blob/master/screenshoot/02.jpeg" width="320" height="480" hspace="20"/>
-<img align="left" src="https://github.com/aqshalrzq/E-Baca/blob/master/screenshoot/03.jpeg" width="320" height="480" hspace="20"/>
-<img align="left" src="https://github.com/aqshalrzq/E-Baca/blob/master/screenshoot/04.jpeg" width="320" height="480" hspace="20"/>
-<img align="left" src="https://github.com/aqshalrzq/E-Baca/blob/master/screenshoot/05.jpeg" width="320" height="480" hspace="20"/>
+<img align="left" src="https://github.com/aqshalrzq/E-Baca/blob/master/screenshoot/01.jpeg" width="270" height="480" hspace="10"/>
+<img align="left" src="https://github.com/aqshalrzq/E-Baca/blob/master/screenshoot/02.jpeg" width="270" height="480" hspace="10"/>
+<img align="left" src="https://github.com/aqshalrzq/E-Baca/blob/master/screenshoot/03.jpeg" width="270" height="480" hspace="10"/>
+<img align="left" src="https://github.com/aqshalrzq/E-Baca/blob/master/screenshoot/04.jpeg" width="270" height="480" hspace="10"/>
+<img align="left" src="https://github.com/aqshalrzq/E-Baca/blob/master/screenshoot/05.jpeg" width="270" height="480" hspace="10"/>
