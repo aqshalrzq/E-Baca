@@ -17,4 +17,4 @@ Fitur dari Aplikasi E-Baca berbasis Android adalah :
 * Menambahkan mode onBackPressed
 
 # Screenshoot
-  <img src="https://github.com/aqshalrzq/E-Baca/blob/master/screenshoot/01.jpeg" width="480" height="854" />
+  <img src="https://github.com/aqshalrzq/E-Baca/blob/master/screenshoot/01.jpeg" width="320" height="480" />
