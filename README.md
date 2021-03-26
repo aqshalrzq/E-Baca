@@ -15,3 +15,5 @@ Fitur dari Aplikasi E-Baca berbasis Android adalah :
 * Adanya validasi data kosong saat akan memberi rating
 * Menampilkan siapa saja yang bertugas membangun aplikasi E-Baca ini
 * Menambahkan mode onBackPressed
+
+# Screenshot
