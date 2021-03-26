@@ -19,10 +19,10 @@ Fitur dari Aplikasi E-Baca berbasis Android adalah :
 # Screenshoot
 <table>
   <tr>
-    <img src="https://github.com/aqshalrzq/E-Baca/blob/master/screenshoot/01.jpeg" width="320" height="480" />
-    <img src="https://github.com/aqshalrzq/E-Baca/blob/master/screenshoot/02.jpeg" width="320" height="480" />
-    <img src="https://github.com/aqshalrzq/E-Baca/blob/master/screenshoot/03.jpeg" width="320" height="480" />
-    <img src="https://github.com/aqshalrzq/E-Baca/blob/master/screenshoot/04.jpeg" width="320" height="480" />
-    <img src="https://github.com/aqshalrzq/E-Baca/blob/master/screenshoot/05.jpeg" width="320" height="480" />
+    <td><img src="https://github.com/aqshalrzq/E-Baca/blob/master/screenshoot/01.jpeg" width="320" height="480" /></td>
+    <td><img src="https://github.com/aqshalrzq/E-Baca/blob/master/screenshoot/02.jpeg" width="320" height="480" /></td>
+    <td><img src="https://github.com/aqshalrzq/E-Baca/blob/master/screenshoot/03.jpeg" width="320" height="480" /></td>
+    <td><img src="https://github.com/aqshalrzq/E-Baca/blob/master/screenshoot/04.jpeg" width="320" height="480" /></td>
+    <td><img src="https://github.com/aqshalrzq/E-Baca/blob/master/screenshoot/05.jpeg" width="320" height="480" /></td>
   </tr>
  </table>
